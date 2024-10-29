@@ -2,10 +2,10 @@
 # 网络和节点层（Infrastructure Layer）
 区块链网络：为Web3提供底层技术支持的区块链，如以太坊（Ethereum）、Solana、EOS万链之母、Ton。
 节点与验证者网络：API提供商如Infura、Alchemy、QuickNode，帮助开发者快速连接到区块链网络。
-### [Bitcoin](https://mempool.space/)[Ethereum：](https://etherscan.io/) / [Solana](https://explorer.solana.com/) / [Polkadot](https://polkadot.subscan.io/) / [EOS](https://eosnetwork.com/zh/block-explorers/) / [TON](https://docs.ton.org/mandarin/)： / [SUI](https://docs-zh.sui-book.com/)
-### [Infura](https://www.infura.io/) ：强大的 API、稳健的工具和无与伦比的可靠性，实现无缝 Web3 开发
-### [Alchemy](https://www.alchemy.com/) ：强大的 API、SDK 和工具可轻松构建和扩展您的 web3 应用程序。
-### [QuickNode](https://www.quicknode.com/streams) ：无需复杂的 ETL 管道和持续轮询。Streams 提供持续的、基于推送的数据流，可简化您的数据提取过程。
+### [Bitcoin](https://mempool.space/) / [Ethereum：](https://etherscan.io/) / [Solana](https://explorer.solana.com/) / [Polkadot](https://polkadot.subscan.io/) / [EOS](https://eosnetwork.com/zh/block-explorers/) / [TON](https://docs.ton.org/mandarin/) / [SUI](https://docs-zh.sui-book.com/)
+##### [Infura](https://www.infura.io/) ：强大的 API、稳健的工具和无与伦比的可靠性，实现无缝 Web3 开发
+##### [Alchemy](https://www.alchemy.com/) ：强大的 API、SDK 和工具可轻松构建和扩展您的 web3 应用程序。
+##### [QuickNode](https://www.quicknode.com/streams) ：无需复杂的 ETL 管道和持续轮询。Streams 提供持续的、基于推送的数据流，可简化您的数据提取过程。
 
 # 共识机制层（Consensus mechanism）
 共识算法：如PoW（工作量证明）、PoS（权益证明）、PoA（权威证明），用于维持网络安全性。
