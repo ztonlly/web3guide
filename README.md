@@ -2,10 +2,17 @@
 # 网络和节点层（Infrastructure Layer）
 区块链网络：为Web3提供底层技术支持的区块链，如以太坊（Ethereum）、波卡（Polkadot）、Solana、Polygon、Avalanche。
 节点与验证者网络：API提供商如Infura、Alchemy、QuickNode，帮助开发者快速连接到区块链网络。
+Ethereum：[Ethereum：](https://etherscan.io/)
+Solana:[Solana](https://explorer.solana.com/)
+Infura:[Infura](https://www.infura.io/) ————强大的 API、稳健的工具和无与伦比的可靠性，实现无缝 Web3 开发
+Alchemy:[Alchemy](https://www.alchemy.com/) ————强大的 API、SDK 和工具可轻松构建和扩展您的 web3 应用程序。
+QuickNode:[QuickNode](https://www.quicknode.com/streams) ————无需复杂的 ETL 管道和持续轮询。Streams 提供持续的、基于推送的数据流，可简化您的数据提取过程。
 
-# 共识机制层
+# 共识机制层（Consensus mechanism）
 共识算法：如PoW（工作量证明）、PoS（权益证明）、PoA（权威证明），用于维持网络安全性。
 扩容解决方案：如Rollups（如zk-Rollups, Optimistic Rollups）和侧链（如Polygon），帮助区块链提升交易速度和降低成本。
+
+[PoW](https://developer.bitcoin.org/devguide/mining.html) / [PoS](https://ethereum.org/zh/developers/docs/consensus-mechanisms/pos/) / [Rollups](https://ethereum.org/zh/developers/docs/scaling/) / [zk-Rollups](https://ethereum.org/zh/developers/docs/scaling/zk-rollups/) / [Optimistic Rollups](https://ethereum.org/zh/developers/docs/scaling/optimistic-rollups/) / [侧链](https://ethereum.org/zh/developers/docs/scaling/sidechains/)
 
 # 合约与协议层（Protocol Layer）
 智能合约：如ERC-20、ERC-721、ERC-1155，定义Token和NFT标准。
@@ -13,7 +20,7 @@
 跨链协议：如Cosmos、Polkadot、LayerZero，实现不同区块链之间的互通。
 计算协议：如Golem、iExec，通过去中心化节点提供计算资源。
 
-# 存储和计算层
+# 存储和计算层（Storage and Computing layer）
 分布式存储：去中心化数据存储协议，如IPFS、Filecoin、Arweave，提供链上与链下数据存储支持。
 链上计算：通过区块链上的智能合约执行，确保数据的透明性和不可篡改性。常见虚拟机包括以太坊的EVM和其他区块链的定制虚拟机（如Solana的SeaLevel）。
 链下计算：高强度计算任务被分配到链下，减轻链上负担。例如Golem和iExec提供的去中心化计算网络，让用户租用计算资源完成复杂任务。
