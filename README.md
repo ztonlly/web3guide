@@ -1,5 +1,3 @@
-# web3guide
-web3全栈学习指南，技术、应用交互、项目市场
 
 # 网络和节点层（Infrastructure Layer）
 区块链网络：为Web3提供底层技术支持的区块链，如以太坊（Ethereum）、波卡（Polkadot）、Solana、Polygon、Avalanche。
