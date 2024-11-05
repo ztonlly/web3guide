@@ -30,5 +30,5 @@
 
 ### 【Cloudflare】节点信息
 ```bash
-vless://11dc55cc-2938-40a5-bb23-33a87a9de6f7@172.67.237.97:2095?security=&sni=vless.ztonlly.workers.dev&fp=randomized&type=ws&path=/?ed%3D2048&host=vless.ztonlly.workers.dev&encryption=none#vless.ztonlly.workers.dev
+vless://11dc55cc-2938-40a5-bb23-33a87a9de6f7@优选IP:2095?security=&sni=vless.ztonlly.workers.dev&fp=randomized&type=ws&path=/?ed%3D2048&host=vless.ztonlly.workers.dev&encryption=none#vless.ztonlly.workers.dev
 ```
