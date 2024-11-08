@@ -11,8 +11,8 @@
     + NaiveProxy(sing-box)
 
 
-## Cloudflare自建节点信息
-```部署worker.js代码，更改UUID和选择反代域名，配置客户端IP和端口```
+## [Cloudflare](https://www.cloudflare-cn.com/)自建节点信息
+```# 部署worker.js代码，更改UUID和选择反代域名，配置客户端IP和端口```
 
 ### **在线生成UUID**：[https://1024tools.com/uuid](https://1024tools.com/uuid)
 ### **在线优选IP**：[https://stock.hostmonit.com/Cloudflareyes](https://stock.hostmonit.com/Cloudflareyes)
@@ -30,5 +30,5 @@
 
 ### 【Cloudflare】节点信息
 ```bash
-vless://UUID@优选IP:2095?security=&sni=vless.ztonlly.workers.dev&fp=randomized&type=ws&path=/?ed%3D2048&host=vless.ztonlly.workers.dev&encryption=none#vless.ztonlly.workers.dev
+vless://11dc55cc-2938-40a5-bb23-33a87a9de6f7@优选IP:2095?security=&sni=vless.ztonlly.workers.dev&fp=randomized&type=ws&path=/?ed%3D2048&host=vless.ztonlly.workers.dev&encryption=none#vless.ztonlly.workers.dev
 ```
