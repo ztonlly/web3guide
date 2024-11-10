@@ -14,4 +14,4 @@ Octobot 的主要功能是进化，你可以：
 + 为改进 OctoBot 核心存储库和触角做出贡献。
 + OctoBot 已为 AI 做好准备：Python 是 OctoBot 的主要语言，它可以轻松集成机器学习库（如Tensorflow或任何其他库）并利用所有可用数据并创建非常强大的交易策略。
 
-想要了解更多信息？查看我们的 Octobot 指南：octobot.cloud/en/guides/octobot
+想要了解更多信息？查看我们的 Octobot 指南：[octobot.cloud/en/guides/octobot](https://www.octobot.cloud/en/guides/octobot)
