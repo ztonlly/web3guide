@@ -56,5 +56,5 @@
 + 分析工具和数据平台：如Dune Analytics、Nansen，提供Web3生态数据分析与链上活动监控。
 
 
-# (区块链研发资源)Blockchain-Development-Resources
+# 区块链研发资源（Blockchain-Development-Resources）
 [https://github.com/frankiefab100/Blockchain-Development-Resources](https://github.com/frankiefab100/Blockchain-Development-Resources)
