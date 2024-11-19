@@ -12,6 +12,7 @@
 
 
 ## [Cloudflare](https://www.cloudflare-cn.com/)自建节点信息
++ [worker.js](./worker.js)
 ```# 部署worker.js代码，更改UUID和选择反代域名，配置客户端IP和端口```
 
 ### **在线生成UUID**：[https://1024tools.com/uuid](https://1024tools.com/uuid)
