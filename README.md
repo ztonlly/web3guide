@@ -54,3 +54,7 @@
 + 跨链桥：如Wormhole、RenBridge，允许用户和资产跨不同区块链迁移。
 + 流动性聚合器：如1inch、Matcha，将多个DeFi协议的流动性聚合在一起，优化交易。
 + 分析工具和数据平台：如Dune Analytics、Nansen，提供Web3生态数据分析与链上活动监控。
+
+
+# (区块链研发资源)Blockchain-Development-Resources
+[https://github.com/frankiefab100/Blockchain-Development-Resources](https://github.com/frankiefab100/Blockchain-Development-Resources)

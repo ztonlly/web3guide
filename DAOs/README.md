@@ -19,3 +19,6 @@
 + **社区治理**： DAO可以用于治理开源项目、在线社区等。
 + **社会公益**： DAO可以用于资助慈善项目、环保项目等。
 + **协议治理**： DAO可以用于治理去中心化协议，如DeFi协议、区块链网络等。
+
+# 构建一个链上DAO
+[https://github.com/brownie-mix/dao-mix](https://github.com/brownie-mix/dao-mix)
