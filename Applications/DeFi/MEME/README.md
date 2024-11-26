@@ -1,6 +1,7 @@
 # 发现百倍机会，工具 + 实践
 [如何使用 GMGN 玩转 Meme 币？（入门篇）](https://www.techflowpost.com/article/detail_21725.html)  <br/>
-[小白怎么冲土狗？最详细的Solana交易bot对比](https://www.techflowpost.com/article/detail_19574.html)
+[小白怎么冲土狗？最详细的Solana交易bot对比](https://www.techflowpost.com/article/detail_19574.html)  <br />
+[巫师@0xcryptowizard：从二级到链上（入门指南）](https://threadreaderapp.com/thread/1854423667842953534.html)
 1. 如何发现金狗
     + 监控x热点Bot
         + 马斯克系列： @cb_doge @BillyM2k @dogeofficialceo @dogecoin @elonmusk @SpaceX @Tesla @mayemusk
@@ -11,15 +12,20 @@
     + 监控热点CA
     + 监控聪明钱包买入卖出CA
     + CA指标
+        + 市值5M-200M
+        + 持仓地址数量
+        + Top10持仓占比
+        + 新币经历过一次80%大跌后价格稳定一周以上，圆弧底右侧底部抬高
+        + 老币经历过70%以上的大跌
         + Mint丢弃
         + 烧池子
-        + Top10持仓
         + 老鼠仓
-        + 狙击 + 持仓地址数量 + 
         + 流动性
+
 3. 信号提醒
 
 4. 交易Bot
+    + 滑点：行情波动不剧烈0.5%，波动较大热点盘10%
 
 ### 发现 Meme 币
 + Pepeboost ：科学家设计的 TG 机器人，具备早期项目发现等功能。
