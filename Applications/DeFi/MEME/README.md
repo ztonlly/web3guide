@@ -8,12 +8,21 @@
         + 美国政府系列：@realDonaldTrump @doge @america @nasa
         + 名人系列：@VitalikButerin @cz_binance
     + 监控聪明钱包Bot（每日收集更新update）
+    + 相关博主
+        + Murad @MustStopMurad 不必过多介绍，英文头部meme KOL，曾经是二级交易员，这一轮all in meme！适合大资金布局。他在新加坡的演讲，成了无数的机构给LP交代“为什么我们要投资meme”的理由。
+        + Ansem @blknoiz06 Ansem，一己之力带了几十万人来Solana玩meme，Sol能有今天Ansem功不可没
+        + 第二梯队：
+            阴谋集团投头子：mitch @idrawline，Kook @KookCapitalLLC，Crash @CrashiusClay69  
+            goob @goobSOL 正在做挑战  
+            alon @a1lon9 是pump.fun创始人   
+            DegenCapitalLLC @DegenCapitalLLC call的很多都很好的，外星人就是他call的  
+    + 监控binance上币公告，第一时间买入。
 2. 筛选CA
     + 监控热点CA
     + 监控聪明钱包买入卖出CA
     + CA指标
         + 市值5M-200M
-        + 持仓地址数量
+        + 持仓地址数量1000+
         + Top10持仓占比
         + 新币经历过一次80%大跌后价格稳定一周以上，圆弧底右侧底部抬高
         + 老币经历过70%以上的大跌
